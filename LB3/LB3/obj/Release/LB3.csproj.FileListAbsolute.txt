@@ -1,0 +1,510 @@
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\LB3.dll.config
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\LB3.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\LB3.pdb
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csc.exe
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csc.exe.config
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csc.rsp
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csi.exe
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csi.exe.config
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csi.rsp
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.Managed.Core.targets
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.AppContext.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Collections.Immutable.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Console.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Globalization.Calendars.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.IO.Compression.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.IO.FileSystem.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Net.Http.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Net.Sockets.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Reflection.Metadata.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.ValueTuple.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Xml.XmlDocument.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Xml.XPath.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\vbc.exe
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\vbc.exe.config
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\vbc.rsp
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\VBCSCompiler.exe
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\VBCSCompiler.exe.config
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Antlr3.Runtime.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\EntityFramework.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\EntityFramework.SqlServer.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Microsoft.Web.Infrastructure.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Newtonsoft.Json.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Net.Http.Formatting.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Cors.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Helpers.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.Cors.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.WebHost.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Mvc.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Optimization.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Razor.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.Deployment.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.Razor.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\WebGrease.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\EntityFramework.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\EntityFramework.SqlServer.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.Cors.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Newtonsoft.Json.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Net.Http.Formatting.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Helpers.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.WebHost.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Mvc.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Optimization.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Razor.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.Deployment.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.Razor.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Antlr3.Runtime.pdb
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Net.Http.Formatting.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Helpers.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Http.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Http.WebHost.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Mvc.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Optimization.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Razor.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.WebPages.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.WebPages.Razor.resources.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.csproj.AssemblyReference.cache
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.csproj.CoreCompileInputs.cache
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.csproj.CopyComplete
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.dll
+H:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.pdb
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\LB3.dll.config
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\LB3.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\LB3.pdb
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csc.exe
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csc.exe.config
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csc.rsp
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csi.exe
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csi.exe.config
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\csi.rsp
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.AppContext.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Collections.Immutable.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Console.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Globalization.Calendars.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.IO.Compression.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.IO.FileSystem.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Net.Http.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Net.Sockets.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Reflection.Metadata.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.ValueTuple.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Xml.XPath.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\vbc.exe
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\vbc.exe.config
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\vbc.rsp
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\VBCSCompiler.exe
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\roslyn\VBCSCompiler.exe.config
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Antlr3.Runtime.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\EntityFramework.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\EntityFramework.SqlServer.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Microsoft.Web.Infrastructure.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Newtonsoft.Json.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Net.Http.Formatting.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Cors.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Helpers.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.Cors.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.WebHost.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Mvc.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Optimization.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Razor.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.Deployment.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.Razor.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\WebGrease.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\EntityFramework.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\EntityFramework.SqlServer.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.Cors.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Newtonsoft.Json.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Net.Http.Formatting.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Helpers.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Http.WebHost.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Mvc.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Optimization.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.Razor.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.Deployment.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\System.Web.WebPages.Razor.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Antlr3.Runtime.pdb
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Helpers.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Http.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Mvc.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Optimization.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.Razor.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.WebPages.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.csproj.AssemblyReference.cache
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.csproj.CoreCompileInputs.cache
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.csproj.CopyComplete
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.dll
+D:\LabsFolder\_4_1\InternetLabs\LB3\LB3\obj\Release\LB3.pdb
+D:\1\PVI\LB3\LB3\bin\LB3.dll.config
+D:\1\PVI\LB3\LB3\bin\LB3.dll
+D:\1\PVI\LB3\LB3\bin\LB3.pdb
+D:\1\PVI\LB3\LB3\bin\roslyn\csc.exe
+D:\1\PVI\LB3\LB3\bin\roslyn\csc.exe.config
+D:\1\PVI\LB3\LB3\bin\roslyn\csc.rsp
+D:\1\PVI\LB3\LB3\bin\roslyn\csi.exe
+D:\1\PVI\LB3\LB3\bin\roslyn\csi.exe.config
+D:\1\PVI\LB3\LB3\bin\roslyn\csi.rsp
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\1\PVI\LB3\LB3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.AppContext.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Collections.Immutable.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Console.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Globalization.Calendars.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.IO.Compression.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.IO.FileSystem.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Net.Http.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Net.Sockets.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Reflection.Metadata.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.ValueTuple.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Xml.XPath.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\1\PVI\LB3\LB3\bin\roslyn\vbc.exe
+D:\1\PVI\LB3\LB3\bin\roslyn\vbc.exe.config
+D:\1\PVI\LB3\LB3\bin\roslyn\vbc.rsp
+D:\1\PVI\LB3\LB3\bin\roslyn\VBCSCompiler.exe
+D:\1\PVI\LB3\LB3\bin\roslyn\VBCSCompiler.exe.config
+D:\1\PVI\LB3\LB3\bin\Antlr3.Runtime.dll
+D:\1\PVI\LB3\LB3\bin\EntityFramework.dll
+D:\1\PVI\LB3\LB3\bin\EntityFramework.SqlServer.dll
+D:\1\PVI\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\1\PVI\LB3\LB3\bin\Microsoft.Web.Infrastructure.dll
+D:\1\PVI\LB3\LB3\bin\Newtonsoft.Json.dll
+D:\1\PVI\LB3\LB3\bin\System.Net.Http.Formatting.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.Cors.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.Helpers.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.Http.Cors.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.Http.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.Http.WebHost.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.Mvc.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.Optimization.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.Razor.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.WebPages.Deployment.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.WebPages.dll
+D:\1\PVI\LB3\LB3\bin\System.Web.WebPages.Razor.dll
+D:\1\PVI\LB3\LB3\bin\WebGrease.dll
+D:\1\PVI\LB3\LB3\bin\EntityFramework.xml
+D:\1\PVI\LB3\LB3\bin\EntityFramework.SqlServer.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.Http.Cors.xml
+D:\1\PVI\LB3\LB3\bin\Newtonsoft.Json.xml
+D:\1\PVI\LB3\LB3\bin\System.Net.Http.Formatting.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.Helpers.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.Http.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.Http.WebHost.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.Mvc.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.Optimization.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.Razor.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.WebPages.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.WebPages.Deployment.xml
+D:\1\PVI\LB3\LB3\bin\System.Web.WebPages.Razor.xml
+D:\1\PVI\LB3\LB3\bin\Antlr3.Runtime.pdb
+D:\1\PVI\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\1\PVI\LB3\LB3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.Helpers.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.Http.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.Mvc.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.Optimization.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.Razor.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.WebPages.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\1\PVI\LB3\LB3\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\1\PVI\LB3\LB3\obj\Release\LB3.csproj.AssemblyReference.cache
+D:\1\PVI\LB3\LB3\obj\Release\LB3.csproj.CoreCompileInputs.cache
+D:\1\PVI\LB3\LB3\obj\Release\LB3.csproj.CopyComplete
+D:\1\PVI\LB3\LB3\obj\Release\LB3.dll
+D:\1\PVI\LB3\LB3\obj\Release\LB3.pdb
+D:\проектирование в интернет\LB3\LB3\bin\LB3.dll.config
+D:\проектирование в интернет\LB3\LB3\bin\LB3.dll
+D:\проектирование в интернет\LB3\LB3\bin\LB3.pdb
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\csc.exe
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\csc.exe.config
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\csc.rsp
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\csi.exe
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\csi.exe.config
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\csi.rsp
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.AppContext.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Collections.Immutable.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Console.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Globalization.Calendars.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.IO.Compression.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.IO.FileSystem.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Net.Http.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Net.Sockets.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Reflection.Metadata.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.ValueTuple.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Xml.XPath.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\vbc.exe
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\vbc.exe.config
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\vbc.rsp
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\VBCSCompiler.exe
+D:\проектирование в интернет\LB3\LB3\bin\roslyn\VBCSCompiler.exe.config
+D:\проектирование в интернет\LB3\LB3\bin\Antlr3.Runtime.dll
+D:\проектирование в интернет\LB3\LB3\bin\EntityFramework.dll
+D:\проектирование в интернет\LB3\LB3\bin\EntityFramework.SqlServer.dll
+D:\проектирование в интернет\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\проектирование в интернет\LB3\LB3\bin\Microsoft.Web.Infrastructure.dll
+D:\проектирование в интернет\LB3\LB3\bin\Newtonsoft.Json.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Net.Http.Formatting.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Cors.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Helpers.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Http.Cors.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Http.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Http.WebHost.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Mvc.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Optimization.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Razor.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.WebPages.Deployment.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.WebPages.dll
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.WebPages.Razor.dll
+D:\проектирование в интернет\LB3\LB3\bin\WebGrease.dll
+D:\проектирование в интернет\LB3\LB3\bin\EntityFramework.xml
+D:\проектирование в интернет\LB3\LB3\bin\EntityFramework.SqlServer.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Http.Cors.xml
+D:\проектирование в интернет\LB3\LB3\bin\Newtonsoft.Json.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Net.Http.Formatting.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Helpers.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Http.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Http.WebHost.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Mvc.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Optimization.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.Razor.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.WebPages.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.WebPages.Deployment.xml
+D:\проектирование в интернет\LB3\LB3\bin\System.Web.WebPages.Razor.xml
+D:\проектирование в интернет\LB3\LB3\bin\Antlr3.Runtime.pdb
+D:\проектирование в интернет\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.Helpers.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.Http.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.Mvc.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.Optimization.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.Razor.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.WebPages.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\проектирование в интернет\LB3\LB3\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\проектирование в интернет\LB3\LB3\obj\Release\LB3.csproj.AssemblyReference.cache
+D:\проектирование в интернет\LB3\LB3\obj\Release\LB3.csproj.CoreCompileInputs.cache
+D:\проектирование в интернет\LB3\LB3\obj\Release\LB3.csproj.CopyComplete
+D:\проектирование в интернет\LB3\LB3\obj\Release\LB3.dll
+D:\проектирование в интернет\LB3\LB3\obj\Release\LB3.pdb
+D:\internet\LB3\LB3\bin\LB3.dll.config
+D:\internet\LB3\LB3\bin\LB3.dll
+D:\internet\LB3\LB3\bin\LB3.pdb
+D:\internet\LB3\LB3\bin\roslyn\csc.exe
+D:\internet\LB3\LB3\bin\roslyn\csc.exe.config
+D:\internet\LB3\LB3\bin\roslyn\csc.rsp
+D:\internet\LB3\LB3\bin\roslyn\csi.exe
+D:\internet\LB3\LB3\bin\roslyn\csi.exe.config
+D:\internet\LB3\LB3\bin\roslyn\csi.rsp
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\internet\LB3\LB3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\internet\LB3\LB3\bin\roslyn\System.AppContext.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Collections.Immutable.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Console.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Globalization.Calendars.dll
+D:\internet\LB3\LB3\bin\roslyn\System.IO.Compression.dll
+D:\internet\LB3\LB3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\internet\LB3\LB3\bin\roslyn\System.IO.FileSystem.dll
+D:\internet\LB3\LB3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Net.Http.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Net.Sockets.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Reflection.Metadata.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\internet\LB3\LB3\bin\roslyn\System.ValueTuple.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Xml.XPath.dll
+D:\internet\LB3\LB3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\internet\LB3\LB3\bin\roslyn\vbc.exe
+D:\internet\LB3\LB3\bin\roslyn\vbc.exe.config
+D:\internet\LB3\LB3\bin\roslyn\vbc.rsp
+D:\internet\LB3\LB3\bin\roslyn\VBCSCompiler.exe
+D:\internet\LB3\LB3\bin\roslyn\VBCSCompiler.exe.config
+D:\internet\LB3\LB3\bin\Antlr3.Runtime.dll
+D:\internet\LB3\LB3\bin\EntityFramework.dll
+D:\internet\LB3\LB3\bin\EntityFramework.SqlServer.dll
+D:\internet\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\internet\LB3\LB3\bin\Microsoft.Web.Infrastructure.dll
+D:\internet\LB3\LB3\bin\Newtonsoft.Json.dll
+D:\internet\LB3\LB3\bin\System.Net.Http.Formatting.dll
+D:\internet\LB3\LB3\bin\System.Web.Cors.dll
+D:\internet\LB3\LB3\bin\System.Web.Helpers.dll
+D:\internet\LB3\LB3\bin\System.Web.Http.Cors.dll
+D:\internet\LB3\LB3\bin\System.Web.Http.dll
+D:\internet\LB3\LB3\bin\System.Web.Http.WebHost.dll
+D:\internet\LB3\LB3\bin\System.Web.Mvc.dll
+D:\internet\LB3\LB3\bin\System.Web.Optimization.dll
+D:\internet\LB3\LB3\bin\System.Web.Razor.dll
+D:\internet\LB3\LB3\bin\System.Web.WebPages.Deployment.dll
+D:\internet\LB3\LB3\bin\System.Web.WebPages.dll
+D:\internet\LB3\LB3\bin\System.Web.WebPages.Razor.dll
+D:\internet\LB3\LB3\bin\WebGrease.dll
+D:\internet\LB3\LB3\bin\EntityFramework.xml
+D:\internet\LB3\LB3\bin\EntityFramework.SqlServer.xml
+D:\internet\LB3\LB3\bin\System.Web.Http.Cors.xml
+D:\internet\LB3\LB3\bin\Newtonsoft.Json.xml
+D:\internet\LB3\LB3\bin\System.Net.Http.Formatting.xml
+D:\internet\LB3\LB3\bin\System.Web.Helpers.xml
+D:\internet\LB3\LB3\bin\System.Web.Http.xml
+D:\internet\LB3\LB3\bin\System.Web.Http.WebHost.xml
+D:\internet\LB3\LB3\bin\System.Web.Mvc.xml
+D:\internet\LB3\LB3\bin\System.Web.Optimization.xml
+D:\internet\LB3\LB3\bin\System.Web.Razor.xml
+D:\internet\LB3\LB3\bin\System.Web.WebPages.xml
+D:\internet\LB3\LB3\bin\System.Web.WebPages.Deployment.xml
+D:\internet\LB3\LB3\bin\System.Web.WebPages.Razor.xml
+D:\internet\LB3\LB3\bin\Antlr3.Runtime.pdb
+D:\internet\LB3\LB3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\internet\LB3\LB3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.Helpers.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.Http.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.Mvc.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.Optimization.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.Razor.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.WebPages.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\internet\LB3\LB3\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\internet\LB3\LB3\obj\Release\LB3.csproj.AssemblyReference.cache
+D:\internet\LB3\LB3\obj\Release\LB3.csproj.CoreCompileInputs.cache
+D:\internet\LB3\LB3\obj\Release\LB3.csproj.CopyComplete
+D:\internet\LB3\LB3\obj\Release\LB3.dll
+D:\internet\LB3\LB3\obj\Release\LB3.pdb

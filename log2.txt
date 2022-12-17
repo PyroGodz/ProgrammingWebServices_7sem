@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Body><Sum_3 xmlns="http://mtd/"><a1><s>12</s><k>11</k><f>44</f></a1><a2><s>32</s><k>33</k><f>22</f></a2></Sum_3></soap:Body></soap:Envelope>

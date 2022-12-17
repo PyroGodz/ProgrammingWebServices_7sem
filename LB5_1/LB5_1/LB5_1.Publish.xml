@@ -1,0 +1,10 @@
+<publishData>
+  <publishTarget publishUrl="D:\host\LB5\">
+    <file relUrl="bin/LB5_1.dll" publishTime="10/08/2022 22:02:30" />
+    <file relUrl="LB5_1.WCFSiplex.svc" publishTime="10/08/2022 22:07:49" />
+    <file relUrl="Web.config" publishTime="01/03/2022 19:56:05" />
+    <file relUrl="Utils/SvcUtil.exe" publishTime="01/03/2022 19:56:05" />
+    <file relUrl="bin/LB5_1.dll.config" publishTime="01/03/2022 19:56:05" />
+    <file relUrl="bin/LB5_1.pdb" publishTime="10/08/2022 22:02:30" />
+  </publishTarget>
+</publishData>

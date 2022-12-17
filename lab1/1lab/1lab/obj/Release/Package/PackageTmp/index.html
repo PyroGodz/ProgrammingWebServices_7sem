@@ -1,0 +1,43 @@
+﻿﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <input type="text" id="input">
+
+    <button onclick="GET_METHOD()">GET</button>
+    <button onclick="POST_METHOD()">POST</button>
+    <button onclick="PUT_METHOD()">PUT</button>
+    <button onclick="DELETE_METHOD()">DELETE</button>
+
+    <div id="output"></div>
+
+    <script>
+        const URL = 'https://localhost:44399';
+        function GET_METHOD() {
+            fetch(`${URL}/tas`, {
+                headers: { 'Accept': 'application/json' }
+            })
+                .then((response) => {
+                    return response.text()
+                })
+                .then((data) => {
+                    document.getElementById("output").innerHTML = data;
+                });
+        }
+        function POST_METHOD(){
+            let param = document.getElementById("input").value;
+            fetch(`${URL}/tas?result=${param}`, { method: "POST" });
+        }
+        function PUT_METHOD(){
+            let param = document.getElementById("input").value;
+            fetch(`${URL}/tas?push=${param}`, { method: "PUT" });
+        }
+        function DELETE_METHOD() {
+            fetch(`${URL}/tas`, { method: "DELETE" });
+        }
+    </script>
+</body>
+</html>

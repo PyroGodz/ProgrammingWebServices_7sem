@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>ii</title>
+    <script src="../../Scripts/jquery-3.3.1.js"></script>
+    <script>
+        function makeid(length) {
+            var result           = '';
+            const characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+            const charactersLength = characters.length;
+            for (let i = 0; i < length; i++ ) {
+                result += characters.charAt(Math.floor(Math.random() * charactersLength));
+            }
+            return result;
+        }
+
+        function Ajax() {
+
+            const data = {
+                Id: makeid(10),
+                Method: $("#method").val(),
+                Params: {
+                    Key: $("#key").val(),
+                    Value: parseInt($("#val").val())
+                }
+            };
+
+            $.ajax({
+                url: "/JRService/Single",
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(data),
+                success: result => {
+                    $("#result").val(result.Result);
+                    console.log(result);
+                },
+                error: error => {
+                    console.log(error);
+                }
+            })
+        }
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+                <input type="text" id="method" value="SetM" />
+                <input type="text" id="key" value="2" />
+                <input type="number" id="val" value="10" /><br>
+                <input type="button" onclick="Ajax()" value="post" />
+                <input type="text" id="result" />
+        </div>
+    </form>
+</body>
+</html>
